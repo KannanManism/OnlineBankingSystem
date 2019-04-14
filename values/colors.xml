@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="moonStone">#3aa8c1</color>
+    <color name="EerieBlack">#1b1b1b</color>
+    <color name="button_background_color">#010b13</color>
+    <color name="gray">#808080</color>
+    <color name="backblue">#33cc5a</color>
+    <color name="difblue">#0009ff</color>
+    <color name="lightBlue">#00e5ff</color>
+    <color name="white">#ffff</color>
+    <color name="backgroundGreen">#117a65 </color>
+    <color name="textBlackish">#212f3d </color>
+    <color name="firstFragmentBg">#884ea0</color>
+
+    <color name="edittextBackground">#d0d3d4 </color>
+</resources>
